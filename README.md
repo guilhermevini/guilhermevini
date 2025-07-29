@@ -32,6 +32,8 @@ Sou um engenheiro de software com espírito de arquiteto e paixão por resolver 
 - 💸 Livre mercado, P2P, blockchain e contratos inteligentes
 - 🌱 Inteligência emocional e liderança
 - 🧘 Espiritualidade aplicada
+- 🎮 Game development
+- 👾 Pixel art
 
 ---
 
