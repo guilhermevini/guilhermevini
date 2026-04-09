@@ -28,6 +28,7 @@ Sou um engenheiro de software com espírito de arquiteto e paixão por resolver 
 
 ### 📚 Interesses Atuais...
 
+- 🦀 Rust
 - 🎓 LLMs, Web3, criptografia pós-quântica
 - 💸 Livre mercado, P2P, blockchain e contratos inteligentes
 - 🌱 Inteligência emocional e liderança
