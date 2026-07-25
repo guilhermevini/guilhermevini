@@ -41,5 +41,4 @@ Sou um engenheiro de software com espírito de arquiteto e paixão por resolver 
 ### 🤝 Vamos conversar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilhermevini/)
-- ✉️ public.headfirst279@passmail.com
 - 🌐 [guilhermevini.com](https://guilhermevini.com)
