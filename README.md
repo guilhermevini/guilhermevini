@@ -29,7 +29,8 @@ Venho da engenharia de software e hoje meu trabalho é desenhar como os sistemas
 
 ### 📚 Interesses
 
-- 🤖 IA aplicada à arquitetura e ao dia a dia de engenharia
+- 🤖 Agentes de IA: squads autônomas, comunicação agent-to-agent (A2A) e MCP
+- 🚀 Empreender construindo plataformas SaaS
 - 🦀 Rust e criptografia pós-quântica
 - 💸 Livre mercado, P2P, blockchain e contratos inteligentes
 - 🎮 Game development e pixel art
