@@ -2,7 +2,7 @@ name: Atualiza posts do blog
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 9 1 * *"
   workflow_dispatch:
 
 permissions:
