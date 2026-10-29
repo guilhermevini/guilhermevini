@@ -1,40 +1,39 @@
 ## 👋 Olá! Eu sou o Guilherme Vinicius Silva
 
-💡 Apaixonado por tecnologia, criptografia, IA, cybersecurity, open-source e arquitetura de sistemas distribuídos.
+🏛️ Arquiteto de soluções no mercado financeiro, focado em sistemas distribuídos, arquitetura event-driven e no ecossistema de Open Finance.
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou um engenheiro de software com espírito de arquiteto e paixão por resolver problemas complexos. Atuo com .NET, sistemas distribuídos, infraestrutura cloud, automação, segurança e inteligência artificial. Lidero equipes, traduzo estratégia em produtos e conecto tecnologia com impacto real.
+Venho da engenharia de software e hoje meu trabalho é desenhar como os sistemas conversam entre si: integrações, contratos, consistência, resiliência e segurança em escala. Gosto de transformar problemas complexos em arquiteturas simples de operar, e de traduzir estratégia de negócio em decisões técnicas.
 
 ---
 
-### ⚙️ Tecnologias & Especialidades
+### 🏗️ No que trabalho
 
-- 💻 **.NET (C#), Clean Architecture, DDD, MediatR, Event Driven**
-- ☁️ **AWS, Kubernetes, Istio, Argo CD, cert-manager, external-secrets**
-- 🔐 **Cybersecurity, OAuth, criptografia**
-- 📈 **Observabilidade, Redis, MongoDB, PostgreSQL**
-- 🧠 **OpenAI APIs, Assistants, embeddings, busca vetorial**
+- 🔀 **Arquitetura event-driven** – mensageria, streaming, sagas, consistência eventual
+- 🌐 **Sistemas distribuídos** – resiliência, escalabilidade, observabilidade
+- 🏦 **Open Finance** – APIs reguladas, consentimento, compartilhamento de dados e pagamentos
+- 🔐 **Segurança** – OAuth 2.0, OpenID Connect, FAPI, mTLS, criptografia
+- ☁️ **Cloud & plataforma** – AWS, Kubernetes, service mesh, GitOps
+- 🧩 **Base de engenharia** – .NET (C#), DDD, Clean Architecture
 
 ---
 
-### 🚀 Projetos
+### 🚀 Projetos pessoais
 
 - 🔒 **Paranoid Project** – Rede pessoal com foco em privacidade extrema, VPN, firewall customizado e criptografia de ponta a ponta.
 
 ---
 
-### 📚 Interesses Atuais...
+### 📚 Interesses
 
-- 🦀 Rust
-- 🎓 LLMs, Web3, criptografia pós-quântica
+- 🤖 IA aplicada à arquitetura e ao dia a dia de engenharia
+- 🦀 Rust e criptografia pós-quântica
 - 💸 Livre mercado, P2P, blockchain e contratos inteligentes
-- 🌱 Inteligência emocional e liderança
-- 🧘 Espiritualidade aplicada
-- 🎮 Game development
-- 👾 Pixel art
+- 🎮 Game development e pixel art
+- 🌱 Liderança, inteligência emocional e espiritualidade aplicada
 
 ---
 
