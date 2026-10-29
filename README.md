@@ -41,11 +41,11 @@ Venho da engenharia de software e hoje meu trabalho é desenhar como os sistemas
 ### ✍️ Últimos posts do blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating the Suspension of Inactive Users in Google Workspace](https://guilhermevini.medium.com/automating-the-suspension-of-inactive-users-in-google-workspace-315c08eebf71)
-- [Allowing FortiWeb Cloud IPs in the Ubuntu Firewall (UFW)](https://guilhermevini.medium.com/allowing-fortiweb-cloud-ips-in-ubuntu-firewall-ufw-ddee0f789a9f)
-- [Fix nginx permissions on /var/www/](https://guilhermevini.medium.com/fix-nginx-permissions-on-var-www-4751d2fc57cd)
-- [Loading environment variables into Bash by AWS Secrets Manager](https://guilhermevini.medium.com/loading-environment-variables-into-bash-by-aws-secrets-manager-e1254a499df)
-- [AWS EC2 User Data Log Location (Windows)](https://guilhermevini.medium.com/aws-ec2-user-data-log-location-windows-5dbd01711506)
+- [Automating the Suspension of Inactive Users in Google Workspace](https://guilhermevini.medium.com/automating-the-suspension-of-inactive-users-in-google-workspace-315c08eebf71?source=rss-8f9ce5315d77------2)
+- [Allowing FortiWeb Cloud IPs in the Ubuntu Firewall &lpar;UFW&rpar;](https://guilhermevini.medium.com/allowing-fortiweb-cloud-ips-in-ubuntu-firewall-ufw-ddee0f789a9f?source=rss-8f9ce5315d77------2)
+- [Fix nginx permissions on /var/www/](https://guilhermevini.medium.com/fix-nginx-permissions-on-var-www-4751d2fc57cd?source=rss-8f9ce5315d77------2)
+- [Loading environment variables into Bash by AWS Secrets Manager](https://guilhermevini.medium.com/loading-environment-variables-into-bash-by-aws-secrets-manager-e1254a499df?source=rss-8f9ce5315d77------2)
+- [AWS EC2 User Data Log Location &lpar;Windows&rpar;](https://guilhermevini.medium.com/aws-ec2-user-data-log-location-windows-5dbd01711506?source=rss-8f9ce5315d77------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Ver todos os posts](http://blog.guilhermevini.com/)
